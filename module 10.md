@@ -38,7 +38,7 @@ void search(char data){
 
 ### Output:
 
-![alt text](img/16.png)
+<img width="712" height="498" alt="Screenshot 2026-09-20 090257" src="https://github.com/user-attachments/assets/8aea7106-83a7-427b-8397-ecb16aaec3f0" />
 
 ### Result:
 Thus, the program to search a given element in the given linked list is verified successfully.
@@ -88,7 +88,7 @@ void insert(char data) {
 
 ### Output:
 
-![alt text](img/17.png)
+<img width="475" height="427" alt="Screenshot 2026-09-20 090313" src="https://github.com/user-attachments/assets/70521553-2b32-47dc-ab91-55ae114535b5" />
  
 ### Result:
 Thus, the program to insert a node in a linked list is verified successfully.
@@ -133,7 +133,7 @@ void display() {
 
 ### Output:
 
-![alt text](img/18.png)
+<img width="467" height="562" alt="Screenshot 2026-09-20 090327" src="https://github.com/user-attachments/assets/18165552-5f3a-499a-88bd-07e9b177df03" />
 
 ### Result:
 Thus, the program to traverse a doubly linked list is verified successfully. 
@@ -189,7 +189,7 @@ void insert(float data) {
 
 ### Output:
 
-![alt text](img/19.png)
+<img width="570" height="767" alt="Screenshot 2026-09-20 090344" src="https://github.com/user-attachments/assets/e4ce619d-d78f-43ee-a542-9e9be2fba9ea" />
 
 ### Result:
 Thus, the program to insert an element in doubly linked list is verified successfully.
@@ -256,7 +256,7 @@ void delete()
 
 ### Output:
 
-![alt text](img/20.png)
+<img width="1182" height="772" alt="Screenshot 2026-09-20 090358" src="https://github.com/user-attachments/assets/84c0de3a-282b-49a0-9855-dd92d2f7899b" />
 
 ### Result:
 Thus, the function that deletes a given element from a linked list is verified successfully.
